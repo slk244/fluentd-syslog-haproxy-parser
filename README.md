@@ -25,7 +25,7 @@ fluent-gem install fluentd-syslog-haproxy-parser-0.0.1.gem
   port 5140
   bind 0.0.0.0
   <parse>
-    @type haproxy
+    @type haproxy_syslog
   </parse>
   tag haproxy
 </source>
