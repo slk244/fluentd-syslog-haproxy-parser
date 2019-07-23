@@ -1,1 +1,1 @@
-# syslog-haproxy-fluentd-parser
+# fluentd-syslog-haproxy-parser
